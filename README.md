@@ -1,2 +1,2 @@
 # TTSDK
-穿山甲SDK广告接入
+Laya项目的穿山甲SDK广告接入
